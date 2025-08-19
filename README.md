@@ -18,18 +18,18 @@ Empower business leaders with actionable insights into sales performance and fin
 ### Analysis Categories
 
 ### 🔹 Sales Analysis
-- **Market Performance Report** – Yearly revenue trends and target deviation analysis to identify high/low performing markets.  
-- **Customer Performance Report** – Revenue growth tracking and yearly trends to monitor customer profitability patterns.  
-- **Product Division Performance** – Revenue and growth analysis across different product divisions.  
-- **Top 10 High-Growth Products** – Revenue growth-based ranking to identify star performers.  
-- **New Product Launch Analysis** – Revenue comparison of newly launched products against established ones.  
-- **Product Sales Volume Analysis** – Top and bottom performing products based on quantity sold.  
+- _[**Market Performance Report**](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Market%20Performance%20Report.pdf)_ – Yearly revenue trends and target deviation analysis to identify high/low performing markets.  
+- _[**Customer Performance Report**](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Customer%20Performance%20Report.pdf)_ – Revenue growth tracking and yearly trends to monitor customer profitability patterns.  
+- _[**Product Division Performance**](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Division%20Performance%20Report.pdf)_ – Revenue and growth analysis across different product divisions.  
+- _[**Top 10 High-Growth Products**](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Top%20Products.pdf)_ – Revenue growth-based ranking to identify star performers.  
+- _[**New Product Launch Analysis**](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/New%20Product%20Report.pdf)_ – Revenue comparison of newly launched products against established ones.  
+- _[**Product Sales Volume Analysis**](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Volume%20Analysis.pdf)_ – Top and bottom performing products based on quantity sold.  
 
 ### 🔹 Finance Reporting
-- **Annual P&L Statement** – Yearly financial performance and growth monitoring.  
-- **Quarterly & Monthly P&L** – Short-term financial trend analysis for agile decision making.  
-- **Country-wise P&L Analysis** – Geographic financial performance breakdown.  
-- **Subzone Margin Performance** – Gross margin percentage analysis by business subzones.  
+- -[**Annual P&L Statement**]()_ – Yearly financial performance and growth monitoring.  
+- _[**Quarterly & Monthly P&L**](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Monthly%20and%20Quaterly%20Finance%20report.pdf)_ – Short-term financial trend analysis for agile decision making.  
+- _[**Country-wise P&L Analysis**](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Market%20Finance%20report.pdf)_ – Geographic financial performance breakdown.  
+- _[**Subzone Margin Performance**](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Gross%20Margin%20by%20subzones.pdf)_ – Gross margin percentage analysis by business subzones.  
 
 ---
 

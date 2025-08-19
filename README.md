@@ -3,10 +3,10 @@
 ## 📋 Project Overview
 This **Sales and Finance Analytics Project** tackles critical business challenges by delivering comprehensive insights across key operational areas. The solution enables stakeholders to:
 
-- Identify underperforming markets  
-- Track customer growth patterns  
-- Evaluate product division success  
-- Monitor financial health through detailed performance reports  
+- Identify underperforming markets.  
+- Track customer growth patterns.  
+- Evaluate product division success.  
+- Monitor financial health through detailed performance reports.  
 
 The analysis provides **actionable insights** for revenue growth, market strategy adjustments, and resource allocation decisions through intuitive reports that transform complex business data into clear, strategic intelligence.
 
@@ -18,18 +18,18 @@ Empower business leaders with actionable insights into sales performance and fin
 ### Analysis Categories
 
 ### 🔹 Sales Analysis
-- **Market Performance Report** – Yearly revenue trends and target deviation analysis to identify high/low performing markets  
-- **Customer Performance Report** – Revenue growth tracking and yearly trends to monitor customer profitability patterns  
-- **Product Division Performance** – Revenue and growth analysis across different product divisions  
-- **Top 10 High-Growth Products** – Revenue growth-based ranking to identify star performers  
-- **New Product Launch Analysis** – Revenue comparison of newly launched products against established ones  
-- **Product Sales Volume Analysis** – Top and bottom performing products based on quantity sold  
+- **Market Performance Report** – Yearly revenue trends and target deviation analysis to identify high/low performing markets.  
+- **Customer Performance Report** – Revenue growth tracking and yearly trends to monitor customer profitability patterns.  
+- **Product Division Performance** – Revenue and growth analysis across different product divisions.  
+- **Top 10 High-Growth Products** – Revenue growth-based ranking to identify star performers.  
+- **New Product Launch Analysis** – Revenue comparison of newly launched products against established ones.  
+- **Product Sales Volume Analysis** – Top and bottom performing products based on quantity sold.  
 
 ### 🔹 Finance Reporting
-- **Annual P&L Statement** – Yearly financial performance and growth monitoring  
-- **Quarterly & Monthly P&L** – Short-term financial trend analysis for agile decision making  
-- **Country-wise P&L Analysis** – Geographic financial performance breakdown  
-- **Subzone Margin Performance** – Gross margin percentage analysis by business subzones  
+- **Annual P&L Statement** – Yearly financial performance and growth monitoring.  
+- **Quarterly & Monthly P&L** – Short-term financial trend analysis for agile decision making.  
+- **Country-wise P&L Analysis** – Geographic financial performance breakdown.  
+- **Subzone Margin Performance** – Gross margin percentage analysis by business subzones.  
 
 ---
 

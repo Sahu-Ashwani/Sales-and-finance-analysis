@@ -62,3 +62,26 @@ Empower business leaders with actionable insights into sales performance and fin
 ---
 
 ## 📁 Project Structure
+Excel-Sales-Finance-Analytics/<br>
+│<br>
+├── 📊 Sales Reports/<br>
+│ ├── _[Market_Performance_Report.pdf](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Market%20Performance%20Report.pdf)_<br>
+│ ├── _[Customer_Performance_Analysis.pdf](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Customer%20Performance%20Report.pdf)_<br>
+│ ├── _[Product_Division_Performance.pdf](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Division%20Performance%20Report.pdf)_<br>
+│ ├── _[Top_Products_Growth_Analysis.pdf](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Top%20Products.pdf)_<br>
+│ ├── _[New_Product_Launch_Comparison.pdf](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/New%20Product%20Report.pdf)_<br>
+│ └── _[Product_Volume_Analysis.pdf](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Volume%20Analysis.pdf)_<br>
+│<br>
+├── 💰 Finance Reports/<br>
+│ ├── _[Annual_PL_Statement.pdf](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Yearly%20Finanace%20report.pdf)_<br>
+│ ├── _[Monthly_Quarterly_PL.pdf](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Monthly%20and%20Quaterly%20Finance%20report.pdf)_<br>
+│ ├── _[Country_wise_PL_Analysis.pdf](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Market%20Finance%20report.pdf)_<br>
+│ └── _[Subzone_Margin_Performance.pdf](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Gross%20Margin%20by%20subzones.pdf)_<br>
+│<br>
+├── 📈 Dashboards/<br>
+│ ├── Sales_Performance_Dashboard.xlsx<br>
+│ └── Finance_Performance_Dashboard.xlsx<br>
+│<br>
+├── 📄 Documentation/<br>
+│ └── README.md<br>
+

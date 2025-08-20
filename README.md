@@ -79,9 +79,16 @@ Excel-Sales-Finance-Analytics/<br>
 │ └── _[Subzone_Margin_Performance.pdf](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/Gross%20Margin%20by%20subzones.pdf)_<br>
 │<br>
 ├── 📈 Dashboards/<br>
-│ ├── Sales_Performance_Dashboard.xlsx<br>
-│ └── Finance_Performance_Dashboard.xlsx<br>
+│ ├── _[Sales_Performance_Dashboard.xlsx](https://docs.google.com/spreadsheets/d/1yqWon311DhcU-lYKcUTp2k9d1zGi-Ow8/edit?usp=sharing&ouid=105954990985094812705&rtpof=true&sd=true)_<br>
+│ └── _[Finance_Performance_Dashboard.xlsx](https://docs.google.com/spreadsheets/d/1deFplBIBhYJ7ecRNcitNzX4utSlUHtfl/edit?usp=sharing&ouid=105954990985094812705&rtpof=true&sd=true)_<br>
+│(**Note**:- To view **Pivot Tables** and their **interactivity**, please download the respective Excel files and open them in Microsoft Excel.)<br>
 │<br>
 ├── 📄 Documentation/<br>
-│ └── README.md<br>
+│ └── _[README.md](https://github.com/Sahu-Ashwani/Sales-and-finance-analysis/blob/main/README.md)_<br>
 
+---
+## 📞 Contact Information
+- **Email:** [ashwanikumarsahu.1904@gmail.com]  
+- **LinkedIn:** _[@Ashwani Kumar Sahu](https://www.linkedin.com/in/ashwani-kumar-sahu-29a689363/)_  
+ <br>
+🚀 *This project demonstrates the power of Excel-based analytics to turn raw data into actionable insights for smarter business decisions.*
